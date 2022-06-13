@@ -12,7 +12,7 @@ html {
 
 /* Menu navegação */
 .header {
-  background-color: ghostwhite;
+  background-color: white;
   border-radius: 2px;
   position: fixed;
   width: 100%;
@@ -81,7 +81,7 @@ ul {
 
 .card:hover {
   opacity: 1;
-  transform: scale(1.1);
+  transform: scale(1.02);
 }
 
 /* Botões/ */
